@@ -1,5 +1,5 @@
 ### Hello! 👋🏽
-- I'm a software engineer currently learning the backend of react! 
+- I'm a software engineer  
 
 
 <!--
